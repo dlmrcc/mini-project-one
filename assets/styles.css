@@ -172,3 +172,22 @@
     padding-right: 2rem;
   }
 }
+
+/* Album Card */
+
+.plan-your_trip {
+  margin-top: 1rem;
+}
+
+.album-text {
+  margin-left: 2rem;
+}
+
+.album_largetext {
+  font-size: 40px;
+}
+.album_smalltext {
+  font-size: 25px;
+  color: gray;
+  margin-bottom: 0%;
+}
